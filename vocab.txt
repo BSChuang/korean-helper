@@ -1,30 +1,285 @@
-원피스	one-piece dress
-바지	pants
-치마	skirt
-티셔츠	t-shirt
-정장	suit
-코트	coat
-가격	price, cost
-사이즈	size
-색깔	color
-디자인하다	to design
-입다	to wear
-벗다	to take off (clothes/shoes)
-신다	to wear (shoes, socks, footwear)
-위투	overcoat
-벗기다	to take someone's clothes off
-힘을 겨루다	to compete for power
-전체	whole
-도대체	world, earth
-망설이다	to hesitate
-기회	opportunity
-분명하다	To be clear/obvious
-특별하다	to be special
-구석	corner
-다행히	fortunately
-만족스럽다	to be satisfying
-방법	way, method
-여기다	to regard, consider
-공유하다	to share
-답답하다	to be frustrated
-씩씩하다	to be brave
+하루		one day			
+이틀		two days			
+사흘		three days			
+해외여행		overseas trip			
+항공권		flight ticket			
+기차표		train ticket			
+경치		scenery			
+관광		sightseeing			
+계획을 세우다		to make a plan			
+부럽다		envy			
+(정보)를 알아보다		look up (information)			
+도착		arrival			
+자유		freedom			
+광고		advertisement			
+관광지		tourist spot			
+구매		purchase			
+내과		internal medicine department			
+치과		dentist			
+병원		hospital			
+증상		symptom			
+기침		cough			
+두통		headache			
+배탈		stomachache			
+재채기		sneeze,sneezing			
+콧물		runny nose			
+열		fever			
+치료		treatment			
+감기약		cold medicine			
+소화제		digestive medicine			
+수술		operation			
+어떻게 오셨어요?		What brought you here? (What brings you here?)			
+감기에 걸리다		to catch a cold			
+소화가 되다		digestion			
+안내		guidance, information			
+글		a piece of writing, text			
+미리		in advance; previously			
+말씀을 드리다		to say (humble)			
+모습		appearance, figure, look			
+올림		from, yours sincerly (honorific)			
+간식		"snacks; ""between meals"""			
+주위		surroundings			
+조언		advice			
+예매		reservation			
+시간표		schedule			
+자리		seat			
+평일		weekday			
+휴일		holiday			
+무료		free			
+팔리다		to be sold			
+남다		to remain, be left			
+무섭다		to be scary			
+지루하다		boring			
+(그럼) 지금 바로		(then) right now			
+얼른 가져올게요		I'll bring [something] right away			
+(표)를 예매하다		book a ticket			
+추가로		additionally			
+편		side, tendency			
+준비되다		to be ready			
+따로		separately			
+해산물		seafood			
+심하다		to be severe			
+낚시		fishing			
+경기		game, match			
+소풍		picnic			
+부지런하다		diligent			
+귀찮다		to feel lazy			
+가끔		sometimes			
+늘		always			
+거의		almost			
+매주		every week			
+것에 관심이 있어요		To be interested in a thing			
+고등학교		high school			
+합격하다		to pass an exam			
+인물		person			
+인생		life			
+사물		objects,things			
+활동		activity			
+멸망		Collapse, downfall, ruin			
+꼬치		food on a skewer			
+당분간		for the time being			
+환장하다		To go crazy/Be out of your mind			
+자기소개		self-introduction			
+교환 학생		exchange student			
+대학원		graduate school			
+전공		major			
+학년		school year			
+학기		semester			
+출석하다		to attend			
+결석하다		to be absent			
+지각		late			
+성적		grade, score			
+규칙		rule			
+안내문		guide			
+게시판		bulletin board			
+모임		gathering			
+회사에 취직하다		to get a job at a company			
+성적이 좋다/나쁘다		good/bad grades			
+갑자기		suddenly			
+지갑		wallet			
+우산		umbrella			
+휴대 전화/휴대폰		cellphone			
+신분증		ID card			
+잃어버리다		to lose something			
+찾다		to find, look for			
+걸어오다		to come on foot			
+멈추다		to stop			
+가져오다		to bring			
+적다		to write down			
+물어보다		to ask			
+돈을 내다		to pay			
+장소		place, location			
+추천하다		to recommend			
+지키다		to protect			
+걱정하다		to worry			
+면접		interview			
+생기다		to arise, occur, happen			
+확인		check; confirmation			
+바꾸다		to change, switch			
+복사하다		copy			
+성격		personality			
+거짓말하다		to lie			
+돕다		to help			
+믿다		to believe			
+화나다		angry			
+착하다		to be nice			
+친절하다		to be kind			
+부지런하다		to be diligent			
+똑똑하다		smart			
+게으르다		lazy			
+(약속)을 지키다		to keep a promise			
+성격이 좋다		to have a good personality			
+화면		screen			
+깨다		to break			
+붙여넣다		to paste			
+설명하다		to explain			
+추가하다		to add			
+땅		land, ground			
+얼음		ice			
+녹이다		to melt something			
+얼리다		to freeze something			
+전승하다		to pass down, inherit			
+빨래		laundry			
+요리		cooking			
+설거지하다		washing the dishes			
+세탁기		washing machine			
+청소하다		to clean			
+정리하다		to organize			
+(창문)을 닦다		to clean the window			
+(세탁기)를 돌리다		to run the washing machine			
+집안일을 하다		to do the housework			
+집안일을 나누다		to share the housework			
+쓰레기를 버리다		to throw away trash			
+판단하다		to judge			
+문서		document			
+얻다		to get, obtain			
+바라다		to wish, to hope			
+이상		more than			
+지각하다		to be late			
+넘어지다		to fall down			
+낮		daytime			
+정오		noon			
+자정		midnight			
+주방		kitchen			
+거실		living room			
+해외여행		overseas trip			
+방학		school vacation			
+예약		reservation			
+포장하다		to go/take out			
+접시		plate			
+숟가락		spoon			
+젓가락		chopsticks			
+수저		spoon and chopsticks			
+계산		bill, check			
+영수증		receipt			
+주문할게요		I'd like to order			
+뭘 드릴까요?		What can I get for you?			
+반찬이 나오다		get banchan (side dishes)			
+풀다		to solve			
+드디어		finally			
+신기하다		to be interesting, to be fascinating			
+정하다		to decide			
+기계		machine			
+남다		to remain			
+취소하다		to cancel			
+쌀쌀하다		to be chilly			
+공짜		free of charge			
+복잡하다		to be complicated			
+올해		this year			
+청소하다		to clean			
+예전		in the old days			
+지각하다		to be late			
+귀걸이		earrings			
+할인		discount			
+식기		dishes			
+식재료		food ingredients			
+금방		Just now or a moment ago			
+배달		delivery			
+현금		cash			
+카드		card			
+그릇		bowl			
+(음식)을 시키다		to order (food)			
+(시간)이 얼마나 걸려요?		How long does it take?			
+해		sun			
+(카드)로 계산하다		to pay by card			
+발견하다		to discover			
+짜증이 나다		to be annoyed			
+정신이 없다		to be out of it/overwhelmed			
+참다		to endure			
+깊		depth			
+며칠		what date; a few days			
+편찮다		to be uneasy			
+언제든지		anytime, whenever			
+연락하다		contact			
+부탁하다		to ask a favor			
+그림자		shadow			
+침실		bedroom			
+사이		between			
+수하물		baggage, luggage			
+진정하다		to calm down			
+수건		towel			
+세면대		bathroom sink			
+거울		mirror			
+휴지		tissue, toilet paper			
+역시		as expected			
+당연하게 여기다		to take for granted			
+편의점		convenience store			
+찜질방		Korean dry sauna			
+목욕탕		public bath			
+스포츠 센터		sports center			
+주차장		parking lot			
+엘리베이터		elevator			
+이용하다		to use			
+편리하다		to be convenient			
+불편하다		to be uncomfortable			
+무료로 이용하다		to use for free			
+(엘리베이터)를 타다		to take the elevator			
+삶		life			
+배고픔		hunger			
+미래		future			
+세계		world			
+평온하다		to be peaceful			
+무너지다		to collapse, to fall apart			
+붉어지다		to turn red			
+이상하다		to be strange			
+질색이다		to hate or detest			
+지나치다		to pass by			
+까먹다		to forget (informal)			
+토하다		to throw up			
+잡다		to grab, catch			
+놓치다		to miss (an opportunity, etc.)			
+그립다		to miss or long for			
+흔적		trace			
+온종일		all day long			
+괜히		for no reason, unnecessarily			
+정신		mind, spirit			
+원피스		one-piece dress			
+바지		pants			
+치마		skirt			
+티셔츠		t-shirt			
+정장		suit			
+코트		coat			
+가격		price, cost			
+사이즈		size			
+색깔		color			
+디자인하다		to design			
+입다		to wear			
+벗다		to take off (clothes/shoes)			
+신다		to wear (shoes, socks, footwear)			
+위투		overcoat			
+벗기다		to take someone's clothes off			
+힘을 겨루다		to compete for power			
+전체		whole			
+도대체		world, earth			
+망설이다		to hesitate			
+기회		opportunity			
+분명하다		To be clear/obvious			
+특별하다		to be special			
+구석		corner			
+다행히		fortunately			
+만족스럽다		to be satisfying			
+방법		way, method			
+여기다		to regard, consider			
+공유하다		to share			
+답답하다		to be frustrated			
+씩씩하다		to be brave			
