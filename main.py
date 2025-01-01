@@ -69,7 +69,7 @@ def interact_with_chatgpt(system_prompt, user_translation):
     return response["choices"][0]["message"]["content"]
 
 def main():
-    github_url = ""  # Replace with your file's URL
+    github_url = "https://github.com/BSChuang/korean-helper/blob/main/vocab.txt"  # Replace with your file's URL
     vocabulary = fetch_vocabulary_list(github_url)
 
     if not vocabulary:
