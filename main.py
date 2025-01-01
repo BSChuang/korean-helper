@@ -1,17 +1,27 @@
-import openai
+from openai import OpenAI
 import requests
 import random
 import os
 from dotenv import load_dotenv
 
-# Load environment variables from the .env file
+# Load environment variables from .env file
 load_dotenv()
 
-# Load your API key from the .env file
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# Initialize OpenAI client
+openai = OpenAI()
+
+# Retrieve API key from .env file
+api_key = os.getenv('OPENAI_API_KEY')
+client = OpenAI(
+    api_key = os.getenv('OPENAI_API_KEY')
+)
 
 system_prompt = """
-You are an advanced Korean language tutor assisting a learner with vocabulary, grammar, and sentence construction. The focus is on:
+You are an advanced Korean language tutor assisting a learner with vocabulary, grammar, and sentence construction. 
+If the sentence is translated correctly, there is no need for a breakdown. 
+Otherwise, correct the errors with explanations.
+
+The focus is on:
 
 Vocabulary Integration: Incorporating specific vocabulary lists into contextually rich and varied sentences.
 Grammar Practice: Exploring advanced grammar structures like -더니, -는데, and compound verbs, ensuring nuanced understanding and correct usage.
@@ -20,27 +30,18 @@ Concept Reinforcement: Addressing challenging words (e.g., 분명하다, 만족�
 Error Correction: Providing refined corrections with detailed explanations for natural Korean usage.
 Sentence Variations: Encouraging creativity and variety in sentence structures while maintaining vocabulary relevance.
 
-Use the following structure:
-System:
-Here’s the next sentence:
-
+Here's an example of dialogue:
 "망설이지 않고 분명한 기회를 잡는 것이 중요해요."
-
 Your turn! 😊
 
-User:
 I didn’t hesitate and the obvious opportunity that I grabbed was important.
 
-System: 
 Close! Here’s the refined translation:
-
 "It is important to not hesitate and seize clear opportunities."
-
 Explanation:
 "망설이지 않고" → "Without hesitation."
 "분명한 기회를 잡는 것" → "Seizing clear opportunities."
 "중요해요" → "Is important."
-Would you like another sentence? 😊
 """
 
 def fetch_vocabulary_list(github_url):
@@ -52,24 +53,32 @@ def fetch_vocabulary_list(github_url):
         print(f"Failed to fetch vocabulary list. Status code: {response.status_code}")
         return []
 
-def generate_translation_prompt(vocabulary):
-    """Generate the first sentence for translation practice."""
+def generate_sentence_with_vocab(vocabulary):
+    """Ask ChatGPT to generate a sentence using the given vocabulary."""
     selected_vocab = random.sample(vocabulary, min(20, len(vocabulary)))
-    return f"Create a sentence using the following vocabulary: {', '.join(selected_vocab)}\n\nYour turn! 😊"
-
-def interact_with_chatgpt(system_prompt, user_translation):
-    """Send the user's translation to ChatGPT and get a correction."""
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
+    prompt = f"Provide only a single sentence using some terms from the following list: {', '.join(selected_vocab)}"
+    response = client.chat.completions.create(
         messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_translation}
-        ]
+            {"role": "user", "content": system_prompt + "\n\n" + prompt}
+        ],
+        model="gpt-4o"
     )
-    return response["choices"][0]["message"]["content"]
+    return response.choices[0].message.content, prompt
+
+def interact_with_chatgpt(sentence, prompt, user_translation):
+    """Send the user's translation to ChatGPT and get a correction."""
+    response = client.chat.completions.create(
+        messages=[
+            {"role": "user", "content": system_prompt + "\n\n" + prompt},
+            {"role": "system", "content": sentence},
+            {"role": "user", "content": user_translation}
+        ],
+        model="gpt-4o"
+    )
+    return response.choices[0].message.content
 
 def main():
-    github_url = "https://github.com/BSChuang/korean-helper/blob/main/vocab.txt"  # Replace with your file's URL
+    github_url = "https://raw.githubusercontent.com/BSChuang/korean-helper/refs/heads/main/vocab.txt"  # Replace with your file's URL
     vocabulary = fetch_vocabulary_list(github_url)
 
     if not vocabulary:
@@ -79,15 +88,15 @@ def main():
     print("Welcome to the Korean-English Translation Practice Tool!")
 
     while True:
-        prompt = generate_translation_prompt(vocabulary)
-        print("\nSystem:", prompt)
+        sentence, prompt = generate_sentence_with_vocab(vocabulary)
+        print(sentence)
 
         user_translation = input("\nYour translation: ").strip()
         if user_translation.lower() == "quit":
             print("Goodbye!")
             break
 
-        correction = interact_with_chatgpt(system_prompt, user_translation)
+        correction = interact_with_chatgpt(sentence, prompt, user_translation)
 
         print("\nCorrection:", correction)
         print("---------------------------------------------")
