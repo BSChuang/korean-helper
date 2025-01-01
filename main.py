@@ -1,9 +1,14 @@
 import openai
 import requests
 import random
+import os
+from dotenv import load_dotenv
 
-# Load your API key from an environment variable or secret management system
-openai.api_key = 'your_openai_api_key'
+# Load environment variables from the .env file
+load_dotenv()
+
+# Load your API key from the .env file
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 system_prompt = """
 You are an advanced Korean language tutor assisting a learner with vocabulary, grammar, and sentence construction. The focus is on:
@@ -47,29 +52,24 @@ def fetch_vocabulary_list(github_url):
         print(f"Failed to fetch vocabulary list. Status code: {response.status_code}")
         return []
 
-def generate_translation_prompt(vocabulary, target_language):
-    """Generate a system prompt for translation practice."""
-    if target_language == "Korean":
-        direction = "Korean to English"
-    else:
-        direction = "English to Korean"
-
+def generate_translation_prompt(vocabulary):
+    """Generate the first sentence for translation practice."""
     selected_vocab = random.sample(vocabulary, min(20, len(vocabulary)))
-    return f"Create a sentence from {direction}, using the following vocabulary list: {selected_vocab}. "
+    return f"Create a sentence using the following vocabulary: {', '.join(selected_vocab)}\n\nYour turn! 😊"
 
-def interact_with_chatgpt(prompt):
-    """Send a prompt to ChatGPT and get a response."""
+def interact_with_chatgpt(system_prompt, user_translation):
+    """Send the user's translation to ChatGPT and get a correction."""
     response = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": prompt}
+            {"role": "user", "content": user_translation}
         ]
     )
     return response["choices"][0]["message"]["content"]
 
 def main():
-    github_url = "https://raw.githubusercontent.com/yourusername/yourrepo/main/vocabulary.txt"  # Replace with your file's URL
+    github_url = ""  # Replace with your file's URL
     vocabulary = fetch_vocabulary_list(github_url)
 
     if not vocabulary:
@@ -79,20 +79,17 @@ def main():
     print("Welcome to the Korean-English Translation Practice Tool!")
 
     while True:
-        target_language = input("Choose target language (Korean/English or 'quit' to exit): ").strip()
-        if target_language.lower() == "quit":
+        prompt = generate_translation_prompt(vocabulary)
+        print("\nSystem:", prompt)
+
+        user_translation = input("\nYour translation: ").strip()
+        if user_translation.lower() == "quit":
             print("Goodbye!")
             break
 
-        if target_language not in ["Korean", "English"]:
-            print("Invalid choice. Please choose 'Korean' or 'English'.")
-            continue
+        correction = interact_with_chatgpt(system_prompt, user_translation)
 
-        prompt = generate_translation_prompt(vocabulary, target_language)
-        response = interact_with_chatgpt(prompt)
-
-        print("\nPrompt:", prompt)
-        print("Response:", response)
+        print("\nCorrection:", correction)
         print("---------------------------------------------")
 
 if __name__ == "__main__":
