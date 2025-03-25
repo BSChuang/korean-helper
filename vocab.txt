@@ -1,491 +1,810 @@
-하루	one day
-이틀	two days
-사흘	three days
-해외여행	overseas trip
-항공권	flight ticket
-기차표	train ticket
-경치	scenery
-관광	sightseeing
-계획을 세우다	to make a plan
-부럽다	envy
-(정보)를 알아보다	look up (information)
-도착	arrival
-자유	freedom
-광고	advertisement
-관광지	tourist spot
-구매	purchase
-내과	internal medicine department
-치과	dentist
-병원	hospital
-증상	symptom
-기침	cough
-두통	headache
-배탈	stomachache
-재채기	sneeze,sneezing
-콧물	runny nose
-열	fever
-치료	treatment
-감기약	cold medicine
-소화제	digestive medicine
-수술	operation
-어떻게 오셨어요?	What brought you here? (What brings you here?)
-감기에 걸리다	to catch a cold
-소화가 되다	digestion
-안내	guidance, information
-글	a piece of writing, text
-미리	in advance; previously
-말씀을 드리다	to say (humble)
-모습	appearance, figure, look
-올림	from, yours sincerly (honorific)
-간식	"snacks; ""between meals"""
-주위	surroundings
-조언	advice
-예매	reservation
-시간표	schedule
-자리	seat
-평일	weekday
-휴일	holiday
-무료	free
-팔리다	to be sold
-남다	to remain, be left
-무섭다	to be scary
-지루하다	boring
-(그럼) 지금 바로	(then) right now
-얼른 가져올게요	I'll bring [something] right away
-(표)를 예매하다	book a ticket
-추가로	additionally
-편	side, tendency
-준비되다	to be ready
-따로	separately
-해산물	seafood
-심하다	to be severe
-낚시	fishing
-경기	game, match
-소풍	picnic
-부지런하다	diligent
-귀찮다	to feel lazy
-가끔	sometimes
-늘	always
-거의	almost
-매주	every week
-것에 관심이 있어요	To be interested in a thing
-고등학교	high school
-합격하다	to pass an exam
-인물	person
-인생	life
-사물	objects,things
-활동	activity
-멸망	Collapse, downfall, ruin
-꼬치	food on a skewer
-당분간	for the time being
-환장하다	To go crazy/Be out of your mind
-자기소개	self-introduction
-교환 학생	exchange student
-대학원	graduate school
-전공	major
-학년	school year
-학기	semester
-출석하다	to attend
-결석하다	to be absent
-지각	late
-성적	grade, score
-규칙	rule
-안내문	guide
-게시판	bulletin board
-모임	gathering
-회사에 취직하다	to get a job at a company
-성적이 좋다/나쁘다	good/bad grades
-갑자기	suddenly
-지갑	wallet
-우산	umbrella
-휴대 전화/휴대폰	cellphone
-신분증	ID card
-잃어버리다	to lose something
-찾다	to find, look for
-걸어오다	to come on foot
-멈추다	to stop
-가져오다	to bring
-적다	to write down
-물어보다	to ask
-돈을 내다	to pay
-장소	place, location
-추천하다	to recommend
-지키다	to protect
-걱정하다	to worry
-면접	interview
-생기다	to arise, occur, happen
-확인	check; confirmation
-바꾸다	to change, switch
-복사하다	copy
-성격	personality
-거짓말하다	to lie
-돕다	to help
-믿다	to believe
-화나다	angry
-착하다	to be nice
-친절하다	to be kind
-부지런하다	to be diligent
-똑똑하다	smart
-게으르다	lazy
-(약속)을 지키다	to keep a promise
-성격이 좋다	to have a good personality
-화면	screen
-깨다	to break
-붙여넣다	to paste
-설명하다	to explain
-추가하다	to add
-땅	land, ground
-얼음	ice
-녹이다	to melt something
-얼리다	to freeze something
-전승하다	to pass down, inherit
-빨래	laundry
-요리	cooking
-설거지하다	washing the dishes
-세탁기	washing machine
-청소하다	to clean
-정리하다	to organize
-(창문)을 닦다	to clean the window
-(세탁기)를 돌리다	to run the washing machine
-집안일을 하다	to do the housework
-집안일을 나누다	to share the housework
-쓰레기를 버리다	to throw away trash
-판단하다	to judge
-문서	document
-얻다	to get, obtain
-바라다	to wish, to hope
-이상	more than
-지각하다	to be late
-넘어지다	to fall down
-낮	daytime
-정오	noon
-자정	midnight
-주방	kitchen
-거실	living room
-해외여행	overseas trip
-방학	school vacation
-예약	reservation
-포장하다	to go/take out
-접시	plate
-숟가락	spoon
-젓가락	chopsticks
-수저	spoon and chopsticks
-계산	bill, check
-영수증	receipt
-주문할게요	I'd like to order
-뭘 드릴까요?	What can I get for you?
-반찬이 나오다	get banchan (side dishes)
-풀다	to solve
-드디어	finally
-신기하다	to be interesting, to be fascinating
-정하다	to decide
-기계	machine
-남다	to remain
-취소하다	to cancel
-쌀쌀하다	to be chilly
-공짜	free of charge
-복잡하다	to be complicated
-올해	this year
-청소하다	to clean
-예전	in the old days
-지각하다	to be late
-귀걸이	earrings
-할인	discount
-식기	dishes
-식재료	food ingredients
-금방	Just now or a moment ago
-배달	delivery
-현금	cash
-카드	card
-그릇	bowl
-(음식)을 시키다	to order (food)
-(시간)이 얼마나 걸려요?	How long does it take?
-해	sun
-(카드)로 계산하다	to pay by card
-발견하다	to discover
-짜증이 나다	to be annoyed
-정신이 없다	to be out of it/overwhelmed
-참다	to endure
-깊	depth
-며칠	what date; a few days
-편찮다	to be uneasy
-언제든지	anytime, whenever
-연락하다	contact
-부탁하다	to ask a favor
-그림자	shadow
-침실	bedroom
-사이	between
-수하물	baggage, luggage
-진정하다	to calm down
-수건	towel
-세면대	bathroom sink
-거울	mirror
-휴지	tissue, toilet paper
-역시	as expected
-당연하게 여기다	to take for granted
-편의점	convenience store
-찜질방	Korean dry sauna
-목욕탕	public bath
-스포츠 센터	sports center
-주차장	parking lot
-엘리베이터	elevator
-이용하다	to use
-편리하다	to be convenient
-불편하다	to be uncomfortable
-무료로 이용하다	to use for free
-(엘리베이터)를 타다	to take the elevator
-삶	life
-배고픔	hunger
-미래	future
-세계	world
-평온하다	to be peaceful
-무너지다	to collapse, to fall apart
-붉어지다	to turn red
-이상하다	to be strange
-질색이다	to hate or detest
-지나치다	to pass by
-까먹다	to forget (informal)
-토하다	to throw up
-잡다	to grab, catch
-놓치다	to miss (an opportunity, etc.)
-그립다	to miss or long for
-흔적	trace
-온종일	all day long
-괜히	for no reason, unnecessarily
-정신	mind, spirit
-원피스	one-piece dress
-바지	pants
-치마	skirt
-티셔츠	t-shirt
-정장	suit
-코트	coat
-가격	price, cost
-사이즈	size
-색깔	color
-디자인하다	to design
-입다	to wear
-벗다	to take off (clothes/shoes)
-신다	to wear (shoes, socks, footwear)
-위투	overcoat
-벗기다	to take someone's clothes off
-힘을 겨루다	to compete for power
-전체	whole
-도대체	world, earth
-망설이다	to hesitate
-기회	opportunity
-분명하다	To be clear/obvious
-특별하다	to be special
-구석	corner
-다행히	fortunately
-만족스럽다	to be satisfying
-방법	way, method
-여기다	to regard, consider
-공유하다	to share
-답답하다	to be frustrated
-씩씩하다	to be brave
-대상	target
-체력	health, stamina
-흡수하다	to absorb
-마법	magic
-피해	damage
-입히다	to inflict
-회복하다	to recover/heal
-스킬	skill
-이동	movement
-속도	speed
-증가하다	to be increased
-강화하다	to enhance, to strengthen
-비율	proportion/ratio
-변하다	to be transformed
-웅덩이	pool
-유체화	intangible
-상태	state/status
-지정	designation/targetable
-둔화	slowdown
-지속	duration
-피해량	amount of damage
-원래	original
-돌아오다	to be returned
-적	enemy
-일정	fixed/certain
-감소하다	to be decreased
-효과	effect
-잃다	to lose
-돈을 절약하다	Save money (by economizing)
-조부모님	grandparents
-손님	Guests
-머무르다	To stay
-신선하다	Fresh
-잠들다	To fall asleep
-깨어 있다	Stay awake
-개선하다	Improve
-복습하다	Review
-방문하다	Visit
-역사	History
-휴식을 취하다	To rest
-초대하다	Invite
-피하다	Avoid
-평화롭다	To be peaceful
-주소	Address
-방문하다	to visit
-두고 오다	to leave something behind
-작업	work, task, operation
-목록	list
-떨어뜨리다	to drop (something)
-피아노를 치다	to play piano
-작동하다	to operate
-깨달다	to realize
-동그라미	circle
-네모	square
-세모	triangle
-추위	cold (weather)
-피하다	to avoid
-결과	result
-관리하다	to manage
-경찰	police
-생활	daily life, living
-제공하다	to provide
-노력	effort
-무릎	knee
--에 걸쳐	over (a period of time)
-적용하다	to apply
-밤새	all night long
-우연히	accidentally
-동료	co-worker
-활씬	by far
-끓다	to boil
-상	table
-차리다	to prepare for food, to set the table
-습관	habit
-터득하다	to master, to learn, to grasp
-가능하다	to be possible
-금지	prohibition, ban
-한정되다	to be limited/restricted
-향상시키다	to improve
-기로 하다	to decide
-새	bird
-쥐	mouse
-말	horse
-날개	wing
-자전거	bicycle
-배	boat; pear; stomach
-선박	a commercial ship/vessel
-타이어	tire
-기름	oil; gasoline
-엔진	engine
-교통	transportation; traffic
-도시	city
-도로	road
-공항	airport
-기차역	train station
-다리	bridge; leg
-농장	farm
-재판소	courthouse (legal)
-사무실	office
-마을	village, town
-정기적으로	regularly
-모레	the day after tomorrow
-그저께	the day before yesterday
-복귀하다	to return, to come back (to a former state)
-이웃	neighbor
-계시다	to be (honorific)
-설마요	No way!
-주기적으로	periodically, cyclically
-기가막히다	to be astounded
-상세하다	to be detailed
-늙다	to be old (person)
-젊다	to be young (adult)
-젖다	to be wet
-어리다	to be young (child)
-술집	bar
-극장	theater
-도서관	library
-교회	church
-시장	market
-나라	country
-공간	space, room
-위치	location
-양복	suit
-주머니	pocket
-얼룩	stain
-빨간색	red
-초록색	green
-파랑색	blue
-노랑색	yellow
-곤색	navy blue
-분홍색	pink
-갈색	brown
-오랜지색	orange
-검은색	black
-하얀색	white
-회색	gray
-아들	son
-자랑스럽다	to be proud of
-고장하다	to break
-안전하다	to be safe
-점검하다	to inspect, check
-고치다	to fix
-왕	king
-여왕	queen
-대통령	president
-자랑하다	to boast
-옆집 사람	neighbour
-성인	adult
-인간	human being
-피해자	victim
-선수	player
-팬	fan
-군중	crowd
-변호사	lawyer
-의사	doctor
-환자	patient
-웨이터	waiter
-군대	army
-군인	soldier
-예술가	artist
-저자	author
-매니저	manager
-기자	reporter
-종교	religion
-천국	heaven
-지옥	hell
-죽음	death
-지폐	paper money
-결혼식	wedding
-인종	race, ethnic group
-성별	gender
-살인	murder
-교도소	prison, jail
-기술	technology, skill
-정력	vitality, energy, vigor
-충분하다	to be enough
-연결하다	to connect
-쌓다	to pile, to stack, to accumulate
-전쟁	war
-공격	attack
-선거	election
-잡지	magazine
-신문	newspaper
-독	poison
-총	gun
-경주	race
-계약서	contract
-마약	drug
-간판	signboard
-과학	science
-하느님	god
-악기	musical instrument
-미술	art
-국물	soup, broth
-잔인하다	to be cruel
-다루다	to treat, deal with
-강력하다	To be strong or powerful
-공개하다	to make public
-현명하다	to be wise
-연설	speech
-칠하다	to paint
-반응하다	to react
-거리	street, road
-시위	demonstration, protest
-아/어 왔다	to have been ~ing (till now)
-아/어 갔다	to have been and will continue to ~ing
+하루		one day			
+이틀		two days			
+사흘		three days			
+해외여행		overseas trip			
+항공권		flight ticket			
+기차표		train ticket			
+경치		scenery			
+관광		sightseeing			
+계획을 세우다		to make a plan			
+부럽다		envy			
+(정보)를 알아보다		look up (information)			
+도착		arrival			
+자유		freedom			
+광고		advertisement			
+관광지		tourist spot			
+구매		purchase			
+내과		internal medicine department			
+치과		dentist			
+병원		hospital			
+증상		symptom			
+기침		cough			
+두통		headache			
+배탈		stomachache			
+재채기		sneeze,sneezing			
+콧물		runny nose			
+열		fever			
+치료		treatment			
+감기약		cold medicine			
+소화제		digestive medicine			
+수술		operation			
+어떻게 오셨어요?		What brought you here? (What brings you here?)			
+감기에 걸리다		to catch a cold			
+소화가 되다		digestion			
+안내		guidance, information			
+글		a piece of writing, text			
+미리		in advance; previously			
+말씀을 드리다		to say (humble)			
+모습		appearance, figure, look			
+올림		from, yours sincerly (honorific)			
+간식		"snacks; ""between meals"""			
+주위		surroundings			
+조언		advice			
+예매		reservation			
+시간표		schedule			
+자리		seat			
+평일		weekday			
+휴일		holiday			
+무료		free			
+팔리다		to be sold			
+남다		to remain, be left			
+무섭다		to be scary			
+지루하다		to be boring			
+(그럼) 지금 바로		(then) right now			
+얼른 가져올게요		I'll bring [something] right away			
+(표)를 예매하다		book a ticket			
+추가로		additionally			
+편		side, tendency			
+준비되다		to be ready			
+따로		separately			
+해산물		seafood			
+심하다		to be severe			
+낚시		fishing			
+경기		game, match			
+소풍		picnic			
+부지런하다		to be diligent			
+귀찮다		to feel lazy			
+가끔		sometimes			
+늘		always			
+거의		almost			
+매주		every week			
+것에 관심이 있어요		To be interested in a thing			
+고등학교		high school			
+합격하다		to pass an exam			
+인물		person			
+인생		life			
+사물		objects,things			
+활동		activity			
+멸망		Collapse, downfall, ruin			
+꼬치		food on a skewer			
+당분간		for the time being			
+환장하다		To go crazy/Be out of your mind			
+자기소개		self-introduction			
+교환 학생		exchange student			
+대학원		graduate school			
+전공		major			
+학년		school year			
+학기		semester			
+출석하다		to attend			
+결석하다		to be absent			
+지각		late			
+성적		grade, score			
+규칙		rule			
+안내문		guide			
+게시판		bulletin board			
+모임		gathering			
+회사에 취직하다		to get a job at a company			
+성적이 좋다/나쁘다		good/bad grades			
+갑자기		suddenly			
+지갑		wallet			
+우산		umbrella			
+휴대 전화/휴대폰		cellphone			
+신분증		ID card			
+잃어버리다		to lose something			
+찾다		to find, look for			
+걸어오다		to come on foot			
+멈추다		to stop			
+가져오다		to bring			
+적다		to write down			
+물어보다		to ask			
+돈을 내다		to pay			
+장소		place, location			
+추천하다		to recommend			
+지키다		to protect			
+걱정하다		to worry			
+면접		interview			
+생기다		to arise, occur, happen			
+확인		check; confirmation			
+바꾸다		to change, switch (something)			
+복사하다		copy			
+성격		personality			
+거짓말하다		to lie			
+돕다		to help			
+믿다		to believe			
+화나다		to be angry			
+착하다		to be nice			
+친절하다		to be kind			
+부지런하다		to be diligent			
+똑똑하다		smart			
+게으르다		to be lazy			
+(약속)을 지키다		to keep a promise			
+성격이 좋다		to have a good personality			
+화면		screen			
+깨다		to break			
+붙여넣다		to paste			
+설명하다		to explain			
+추가하다		to add			
+땅		land, ground			
+얼음		ice			
+녹이다		to melt something			
+얼리다		to freeze something			
+전승하다		to pass down, inherit			
+빨래		laundry			
+요리		cooking			
+설거지하다		washing the dishes			
+세탁기		washing machine			
+청소하다		to clean			
+정리하다		to organize			
+(창문)을 닦다		to clean the window			
+(세탁기)를 돌리다		to run the washing machine			
+집안일을 하다		to do the housework			
+집안일을 나누다		to share the housework			
+쓰레기를 버리다		to throw away trash			
+판단하다		to judge			
+문서		document			
+얻다		to get, obtain			
+바라다		to wish, to hope			
+이상		more than			
+지각하다		to be late			
+넘어지다		to fall down			
+낮		daytime			
+정오		noon			
+자정		midnight			
+주방		kitchen			
+거실		living room			
+해외여행		overseas trip			
+방학		school vacation			
+예약		reservation			
+포장하다		to go/take out			
+접시		plate			
+숟가락		spoon			
+젓가락		chopsticks			
+수저		spoon and chopsticks			
+계산		bill, check			
+영수증		receipt			
+주문할게요		I'd like to order			
+뭘 드릴까요?		What can I get for you?			
+반찬이 나오다		get banchan (side dishes)			
+풀다		to solve			
+드디어		finally			
+신기하다		to be interesting, to be fascinating			
+정하다		to decide			
+기계		machine			
+남다		to remain			
+취소하다		to cancel			
+쌀쌀하다		to be chilly			
+공짜		free of charge			
+복잡하다		to be complicated			
+올해		this year			
+청소하다		to clean			
+예전		in the old days			
+지각하다		to be late			
+귀걸이		earrings			
+할인		discount			
+식기		dishes			
+식재료		food ingredients			
+금방		Just now or a moment ago			
+배달		delivery			
+현금		cash			
+카드		card			
+그릇		bowl			
+(음식)을 시키다		to order (food)			
+(시간)이 얼마나 걸려요?		How long does it take?			
+해		sun			
+(카드)로 계산하다		to pay by card			
+발견하다		to discover (something)			
+짜증이 나다		to be annoyed			
+정신이 없다		to be out of it/overwhelmed			
+참다		to endure			
+깊		depth			
+며칠		what date; a few days			
+편찮다		to be uneasy			
+언제든지		anytime, whenever			
+연락하다		to contact			
+부탁하다		to ask a favor			
+그림자		shadow			
+침실		bedroom			
+사이		between			
+수하물		baggage, luggage			
+진정하다		to calm down			
+수건		towel			
+세면대		bathroom sink			
+거울		mirror			
+휴지		tissue, toilet paper			
+역시		as expected			
+당연하게 여기다		to take for granted			
+편의점		convenience store			
+찜질방		Korean dry sauna			
+목욕탕		public bath			
+스포츠 센터		sports center			
+주차장		parking lot			
+엘리베이터		elevator			
+이용하다		to use			
+편리하다		to be convenient			
+불편하다		to be uncomfortable			
+무료로 이용하다		to use for free			
+(엘리베이터)를 타다		to take the elevator			
+삶		life			
+배고픔		hunger			
+미래		future			
+세계		world			
+평온하다		to be peaceful			
+무너지다		to collapse, to fall apart			
+붉어지다		to turn red			
+이상하다		to be strange			
+질색이다		to hate or detest			
+지나치다		to pass by			
+까먹다		to forget (informal)			
+토하다		to throw up			
+잡다		to grab, catch			
+놓치다		to miss (an opportunity, etc.)			
+그립다		to miss or long for			
+흔적		trace			
+온종일		all day long			
+괜히		for no reason, unnecessarily			
+정신		mind, spirit			
+원피스		one-piece dress			
+바지		pants			
+치마		skirt			
+티셔츠		t-shirt			
+정장		suit			
+코트		coat			
+가격		price, cost			
+사이즈		size			
+색깔		color			
+디자인하다		to design			
+입다		to wear			
+벗다		to take off (clothes/shoes)			
+신다		to wear (shoes, socks, footwear)			
+외투		overcoat			
+벗기다		to take someone's clothes off			
+힘을 겨루다		to compete for power			
+전체		whole			
+도대체		world, earth			
+망설이다		to hesitate			
+기회		opportunity			
+분명하다		To be clear/obvious			
+특별하다		to be special			
+구석		corner			
+다행히		fortunately			
+만족스럽다		to be satisfying			
+방법		way, method			
+여기다		to regard, consider			
+공유하다		to share			
+답답하다		to be frustrated			
+씩씩하다		to be brave			
+대상		target			
+체력		health, stamina			
+흡수하다		to absorb			
+마법		magic			
+피해		damage			
+입히다		to inflict			
+회복하다		to recover/heal			
+스킬		skill			
+이동		movement			
+속도		speed			
+증가하다		to be increased			
+강화하다		to enhance, to strengthen			
+비율		proportion/ratio			
+변하다		to be transformed			
+웅덩이		pool			
+유체화		intangible			
+상태		state/status			
+지정		designation/targetable			
+둔화		slowdown			
+지속		duration			
+피해량		amount of damage			
+원래		original			
+돌아오다		to be returned			
+적		enemy			
+일정		fixed/certain			
+감소하다		to be decreased			
+효과		effect			
+잃다		to lose			
+돈을 절약하다		Save money (by economizing)			
+조부모님		grandparents			
+손님		Guests			
+머무르다		To stay			
+신선하다		to be fresh			
+잠들다		To fall asleep			
+깨어 있다		Stay awake			
+개선하다		to improve (fix a flaw)			
+복습하다		to review			
+방문하다		Visit			
+역사		History			
+휴식을 취하다		to rest			
+초대하다		to invite			
+피하다		to avoid			
+평화롭다		To be peaceful			
+주소		address			
+방문하다		to visit			
+두고 오다		to leave something behind			
+작업		work, task, operation			
+목록		list			
+떨어뜨리다		to drop (something)			
+피아노를 치다		to play piano			
+작동하다		to operate			
+깨달다		to realize			
+동그라미		circle			
+네모		square			
+세모		triangle			
+추위		cold (weather)			
+피하다		to avoid			
+결과		result			
+관리하다		to manage			
+경찰		police			
+생활		daily life, living			
+제공하다		to provide			
+노력		effort			
+무릎		knee			
+-에 걸쳐		over (a period of time)			
+적용하다		to apply			
+밤새		all night long			
+우연히		accidentally			
+동료		co-worker			
+활씬		by far			
+끓다		to boil			
+상		table			
+차리다		to prepare for food, to set the table			
+습관		habit			
+터득하다		to master, to learn, to grasp			
+가능하다		to be possible			
+금지		prohibition, ban			
+한정되다		to be limited/restricted			
+향상시키다		to improve (enhance)			
+기로 하다		to decide			
+새		bird			
+쥐		mouse			
+말		horse			
+날개		wing			
+자전거		bicycle			
+배		boat; pear; stomach			
+선박		a commercial ship/vessel			
+타이어		tire			
+기름		oil; gasoline			
+엔진		engine			
+교통		transportation; traffic			
+도시		city			
+도로		road			
+공항		airport			
+기차역		train station			
+다리		bridge; leg			
+농장		farm			
+재판소		courthouse (legal)			
+사무실		office			
+마을		village, town			
+정기적으로		regularly			
+모레		the day after tomorrow			
+그저께		the day before yesterday			
+복귀하다		to return, to come back (to a former state)			
+이웃		neighbor			
+계시다		to be (honorific)			
+설마요		No way!			
+주기적으로		periodically, cyclically			
+기가막히다		to be astounded			
+상세하다		to be detailed			
+늙다		to be old (person)			
+젊다		to be young (adult)			
+젖다		to be wet			
+어리다		to be young (child)			
+술집		bar			
+극장		theater			
+도서관		library			
+교회		church			
+시장		market			
+나라		country			
+공간		space, room			
+위치		location			
+양복		suit			
+주머니		pocket			
+얼룩		stain			
+빨간색		red			
+초록색		green			
+파랑색		blue			
+노랑색		yellow			
+곤색		navy blue			
+분홍색		pink			
+갈색		brown			
+오랜지색		orange			
+검은색		black			
+하얀색		white			
+회색		gray			
+아들		son			
+자랑스럽다		to be proud of			
+고장하다		to break down			
+안전하다		to be safe			
+점검하다		to inspect, check			
+고치다		to fix			
+왕		king			
+여왕		queen			
+대통령		president			
+자랑하다		to boast			
+옆집 사람		neighbour			
+성인		adult			
+인간		human being			
+피해자		victim			
+선수		player			
+팬		fan			
+군중		crowd			
+변호사		lawyer			
+의사		doctor			
+환자		patient			
+웨이터		waiter			
+군대		army			
+군인		soldier			
+예술가		artist			
+저자		author			
+매니저		manager			
+기자		reporter			
+종교		religion			
+천국		heaven			
+지옥		hell			
+죽음		death			
+지폐		paper money			
+결혼식		wedding			
+인종		race, ethnic group			
+성별		gender			
+살인		murder			
+교도소		prison, jail			
+기술		technology, skill			
+정력		vitality, energy, vigor			
+충분하다		to be enough			
+연결하다		to connect			
+쌓다		to pile, to stack, to accumulate			
+전쟁		war			
+공격		attack			
+선거		election			
+잡지		magazine			
+신문		newspaper			
+독		poison			
+총		gun			
+경주		race			
+계약서		contract			
+마약		drug			
+간판		signboard			
+과학		science			
+하느님		god			
+악기		musical instrument			
+미술		art			
+국물		soup, broth			
+잔인하다		to be cruel			
+다루다		to treat, deal with			
+강력하다		To be strong or powerful			
+공개하다		to make public			
+현명하다		to be wise			
+연설		speech			
+칠하다		to paint			
+반응하다		to react			
+거리		street, road			
+시위		demonstration, protest			
+아/어 왔다		to have been ~ing (till now)			
+아/어 갔다		to have been and will continue to ~ing			
+레몬		lemon			
+쌀		uncooked rice			
+식용유		cooking oil			
+씨		seed			
+책상		desk			
+탁자		coffee table			
+식탁		dining table			
+의자		chair			
+침대		bed			
+꿈		dream			
+창문		window			
+문		door			
+부엌		kitchen			
+화장실		bathroom			
+연필		pencil			
+볼팬		pen			
+비누		soap			
+페이지		page			
+열쇠		key			
+편지		letter			
+개발하다		to develop			
+해결하다		to solve			
+목표		goal, target			
+달성하다		to achieve (goal, measurable)			
+작품		work of art			
+감정		emotion			
+담다		to put something into something			
+연구하다		study, research			
+다양하다		to be diverse			
+시행하다		to enforce, to implement			
+보안		security			
+결정하다		to decide			
+시민		citizen			
+결심하다		to resolve			
+연주하다		to play an instrument			
+벽		wall			
+종이		paper			
+천장		ceiling			
+지붕		roof			
+자물쇠		lock (padlock)			
+정원		garden			
+마당		yard			
+바늘		needle			
+상자		box			
+반지		ring			
+도구		tool			
+노트북		laptop			
+턱수염		beard			
+입술		lips			
+이빨		tooth			
+눈물		tears			
+혀		tongue			
+등		back			
+허리		waist, lower back			
+발가락		toe			
+달구다		to heat up (something)			
+푹 쉬세요		get some rest			
+환기 시키다		to ventilate			
+내리다		to get off			
+유지하다		to maintain			
+종료하다		to come to an end			
+상쾌하다		to be refreshing			
+챙겨주다		to take care of			
+달걀		egg			
+줄기		stem			
+손가락		finger			
+발		foot			
+손		hand			
+팔		arm			
+심장		heart			
+피		blood			
+뇌		brain			
+땀		sweat			
+병		disease; illness			
+뼈		bone			
+피부		skin			
+달		moon; month			
+지구		earth			
+숲		forest			
+식물		plant			
+토양		soil			
+계곡		valley			
+뿌리		root			
+호수		lake			
+잔디		grass			
+나뭇잎		leaf			
+공기		air			
+모래		sand			
+해변		beach			
+파도		wave			
+섬		island			
+언덕		hill			
+과제		task, assignment			
+깎다		to cut hair			
+건조하다		to be dry			
+립밤		lip balm			
+발르다		to spread/apply			
+핥다		to lick			
+못됐다		to be mean			
+자연		nature			
+유리		glass			
+금속		metal			
+돌		stone			
+찰흙		clay			
+먼지		dust			
+금		gold			
+구리		copper			
+은		silver			
+재료		ingredient, material			
+반		half			
+온도		temperature			
+날짜		date			
+무게		weight			
+가장자리		edge			
+지도		map			
+점		point			
+자음		consonant			
+모음		vowel			
+가볍다		to be light (weight)			
+피로가 풀리다		to relieve fatigue, to feel refreshed			
+닳다		to be worn down			
+깨물다		to bite (something)			
+부딪다		to bump into (something), to collide (with something)			
+정류장		bus stop			
+규칙적으로		regularly			
+회의		meeting, conference			
+굉장히		extremely, very			
+단단하다		to be hard, solid			
+거칠다		to be rough, coarse			
+골고루		evenly, well-balanced			
+맨발		barefoot			
+허용하다		to allow (something), to permit (something)			
+할까 말까		to do or not to do			
+여권		passport			
+물론		of course			
+교육		education			
+중심		center, core			
+관심		interest			
+현재		present, currently			
+발전		development, progress			
+향하다		to head toward (something)			
+관련되다		to be related to			
+모으다		to collect, gather (something)			
+자료		data			
+제품		product			
+사업		business			
+제대로		properly, correctly			
+던지다		to throw (something)			
+벌리다		to open (something, e.g., mouth, arms)			
+도움		help, assistance			
+가정		home, family			
+빠지다		to fall out			
+대중		the public			
+잇다		to connect, link (something)			
+결코		never (formal, literary)			
+출신		origin, background			
+경향		trend, tendency			
+기록		record			
+폭력		violence			
+절차		process			
+의도		intention			
+저지르다		to commit (a crime, mistake)			
+줄어들다		to be decreased			
+틈		gap, crack, chance			
+가령		for example			
+거대하다		to be enormous, huge			
+드물다		to be rare, uncommon			
+육체		body, flesh			
+대기		atmosphere (scientific)			
+독립		independence			
+조각		piece			
+구멍		hole			
+명사		noun			
+동사		verb			
+형용사		adjective			
+위에		above			
+아래		under			
+옆에		side of			
+뒤에		back side			
+곧장		straight			
+북쪽		north			
+남쪽		south			
+동쪽		east			
+서쪽		west			
+방향		direction			
+고향		hometown			
+전기		electricity			
+전달하다		to deliver, convey (something)			
+정도		about, approximately			
+낮추다		to lower, reduce (something)			
+변경하다		to modify, revise (something) (formal modifications)			
+흙		dirt			
+천		cloth			
+들다		to pick up, lift (something)			
+사진 촬영		photography			
+영상 촬영		filming			
+보호하다		to protect, safeguard (something)			
+순		pure, genuine			
+전선		electric wire, power line			
+용도		purpose			
+재다		to measure (something)			
+~을/를 따라		along, following			
+이루어지다		to consist of			
+환경		environment			
+교체하다		to replace (something)			
+자르다		to cut (something)			
+전통		tradition			
+보양식		nutritious food			
+이점		advantage			
+식품		food product			
+조리하다		to cook (something)			
+풍족하다		to be abundant (materials)			
+영양		nutrition			
+간단하다		to be simple			
+빼다		to remove (something)			
+고민하다		to worry			
+품질		quality			
+요청하다		to request (something)			
+이루다		to achieve (something)			
+의견		opinion			
+절대		never			
+점점		gradually			
+상황		situation			
+경제		economy			
+정치		politics			
+결국		eventually			
+거절당하다		to be rejected			
+운		luck			
+행동		behavior			
+용납되다		to be tolerated			
+진행 중이다		to be in progress			
+투쟁		struggle, fight			
+책임		responsibility			
+부품		component, part (mechanical)			
+가위		scissors			
+여러 가지		several kinds			
+폭발		explosion			
+성분		ingredient (component; element)			
+뛰어나다		to be outstanding			
+포기하다		to give up (something)			
+신중하다		to be careful (heavily consider)			
+영향		influence			
+제안		proposal, suggestion			
+최저		lowest, minimum			
+태도		attitude			
+풍부하다		to be abundant (abstract)			
+지역		region, area			
+분석하다		to analyze (something)			
+소중하다		to be precious			
+영향을 미치다		to influence (something)			
+고소함		nutty, savory flavor			
+딱		exactly, precisely			
+종류		type, kind			
+더욱		even more			
+분량		quantity, amount			
+소개하다		to introduce (something/someone)			
+비슷하다		to be similar			
+위기		crisis			
+만만하다		to be easy, manageable			
+참치		tuna			
+기온		temperature (air)			
+긍정적이다		to be positive			
+정확하다		to be accurate			
+추억		memory (reminiscence)			
+견과류		nuts			
+직원		employee			
+경험하다		to experience (something)			
+잠금장치		lock (device)			
+잠그다		to lock (something)			
+해제하다		to unlock, disable (something)			
+주제		topic, subject			
+현대		modern			
+포함하다		to include (something)			
+사라지다		to disappear			
+푸석하다		to be crumbly, dry			
+냉동실		freezer			
+껍질		peel, shell, skin			
+과육		fruit flesh			
+새콤하다		to be tart, slightly sour			
+약		to be weak, low			
+수분		moisture			
+넉넉하다		to be ample, sufficient			
+맨날		always, every day (exaggerated)			
+냄비		pot			
+뚜껑		lid			
+닮다		to resemble			
+최대		biggest			
+희생		sacrifice			
+채우다		to fill (something)			
+가득 차다		to be full			
+방출		release, emission			
+일으키다		to cause, to provoke			
+감염된		infected			
+충전하다		to charge			
+저항		resistance			
+지연		delay			
+강타		strike			
+속성		attribute			
+전환		transition, change, adapt			
+공격적이다		to be aggressive			
+생존하다		to survive			
+습하다		to be humid			
+유령		ghost			
+늘리다		to increase, to lengthen			
+떠오르다		to come to mind			
+두껍다		to be thick			
+싱겁다		to be bland			
+촉촉하다		to be moist			
+단백질		protein			
+보관하다		to store (something)			
+~ㄴ/은 채(로)		while in the state of			
+분위기		atmosphere			
+부정적이다		to be negative			
+사회		society			
+통하다		to flow, communicate, work well			
+성장하다		to grow up			
+캔따개		can opener			
+따다		to open (sealed container)			
+높이다		to raise (something)			
